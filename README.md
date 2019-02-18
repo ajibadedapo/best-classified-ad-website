@@ -1,5 +1,5 @@
 # The Best Classified Ad Website 
-> Short blurb about what your product does.
+>  A classified ad website.
 
 
 This is a classified ad website I built with Laravel. Fell free to use for anyhow you want.
