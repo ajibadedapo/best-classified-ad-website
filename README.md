@@ -4,7 +4,7 @@
 
 This is a classified ad website I built with Laravel. Fell free to use for anyhow you want.
 !
-A sample of the project is here [https://comingsoon.heroku.com]
+
 
 ## Installation
 
